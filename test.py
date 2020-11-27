@@ -24,7 +24,7 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 
-from models import autoencoder as AE
+from networks import autoencoder as AE
 
 
 #Set random seed for reproducibility
